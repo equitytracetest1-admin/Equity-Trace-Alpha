@@ -1,0 +1,15 @@
+{
+  "name": "equity-trace-alpha",
+  "version": "1.0.0",
+  "description": "Trading Journal for Serious Review",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'Linting not configured yet'",
+    "test": "echo 'Tests not configured yet'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
